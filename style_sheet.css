@@ -1,0 +1,67 @@
+#banner_image{
+padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background: url(Images/intro-bg_1.jpg) no-repeat center;
+background-size: cover;
+}
+
+
+#banner_content{
+position: relative;
+padding-top: 6%;
+padding-bottom: 6%;
+margin-top: 12%;
+margin-bottom: 12%;
+background-color: rgba(0, 0, 0, 0.7);
+max-width: 660px;
+margin-left: 20%;
+}
+
+footer{
+padding: 10px 0;
+position: fixed;
+background-color: #101010;
+color:#9d9d9d;
+bottom: 0;
+width: 100%;
+}
+
+.red{
+    color:red;
+}
+
+
+.panel{
+    margin-top: 35%;
+    margin-left:10%;
+}
+
+.jumbotron{
+    
+    margin-top:8%;
+}
+
+.thumbnail{
+    text-align:center;
+}
+
+table{
+    margin-top: 20%;
+    border-collapse: collapse;
+}
+
+ #NoDecoration{
+    text-decoration: none;
+}
+
+
+.row_style2{
+margin-top:100px;
+margin-bottom:200px;
+}
+
+
+
+
